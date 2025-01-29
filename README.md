@@ -39,3 +39,6 @@ After installing, verify the installation ```rustc --version```
 
 5. Run this command in the root directory of the project 
 ```cargo tauri dev```
+
+6. Build the application using this command 
+```cargo tauri build --debug```
